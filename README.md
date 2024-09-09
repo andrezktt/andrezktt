@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🌱 _ Atualmente aprendendo Java e Banco de Dados;<br>💻 _ Em busca de uma oportunidade na área de desenvolvimento de software;<br>📚 _ Mais de 5 anos de experiência em design (Graduado desde 2022);<br>📝 _ Confira o meu currículo;<br>💀 _ Qualquer coisa pode me chamar em uma das plataformas disponíveis;<br>👾 _ Amo games (principalmente RPG's), livros (clássicos e de ficção científica), filmes e também minha gata chamada Elza Soares ;) </p>
+<p align="left">🌱 _ Atualmente aprendendo Java e Banco de Dados;<br>💻 _ Em busca de uma oportunidade na área de desenvolvimento de software;<br>📚 _ Mais de 5 anos de experiência em design (Graduado desde 2022);<br>📝 _ Confira o meu currículo;<br>💀 _ Qualquer coisa pode me chamar em uma das plataformas disponíveis;<br>👾 _ Amo games (principalmente RPG's), livros (clássicos e de ficção científica), filmes (suspense e animações), e também tenho uma gata chamada Elza Soares 🐈‍⬛ </p>
 
 ###
 ###
