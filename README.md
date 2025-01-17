@@ -26,16 +26,17 @@
 ###
 
 <p align="left">
-  📝 _ Explorando o framework Angular;<br>
-  🌱 _ Desenvolvendo projetos com Java;<br>
-  🧑🏻‍💻 _ Em busca de uma oportunidade na área de desenvolvimento de software;<br>
-  💻 _ Tecnólogo em Análise e Desenvolvimento de Sistemas (segundo semestre);<br>
-  📚 _ Mais de 5 anos de experiência em design (Graduado desde 2022);<br>
+  📚 _ Estudante de Análise e Desenvolvimento de Sistemas (segundo semestre);<br>
+  🌱 _ Se especializando em Java e Spring Framework (Boot, Data, Security, Cloud);<br>
+  💻 _ Em busca de uma oportunidade na área de desenvolvimento back end;<br>
+  🖌️ _ Mais de 5 anos de experiência em design (Graduado desde 2022);<br>
+
+  
   <br>
-  👾 _ Game favorito: Red Dead Redemption 2;<br>
-  💿 _ Album favorito: Good Kid, M.A.A.D City;<br>
-  📚 _ Livro favorito: O Romance d'a Pedra do Reino;<br>
-  🍿 _ Filme favorito: Up Altas Aventuras;<br>
+  👾 _ Game favorito: Red Dead Redemption 2 (2018);<br>
+  💿 _ Album favorito: Madvillainy (2004);<br>
+  📚 _ Livro favorito: O Romance d'a Pedra do Reino (1971);<br>
+  🍿 _ Filme favorito: Up: Altas Aventuras (2009);<br>
 
 ###
 ###
@@ -90,7 +91,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezktt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=andrezktt&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=6&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
