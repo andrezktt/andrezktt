@@ -78,5 +78,5 @@
 ## 📊 Meus status no GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezktt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezktt&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="175" alt="Top Langs" />
 </div>
